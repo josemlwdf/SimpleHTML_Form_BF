@@ -1,0 +1,7 @@
+Start Capital Letter
+lowercase
+End with Digit
+Special Char $ # @
+Lenghth 20 characters
+
+my pass Teaaaaaaaaaaaaaaaa@1
